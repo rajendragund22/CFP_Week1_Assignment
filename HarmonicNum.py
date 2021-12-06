@@ -8,4 +8,5 @@ else:
     while i <= number:
         sum += 1 / i
         i += 1
-        print(sum)
+print(sum)
+
