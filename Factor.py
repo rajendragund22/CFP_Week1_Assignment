@@ -1,3 +1,4 @@
+
 Number = int(input("Enter an integer:"))
 print(" Prime Factors are: ")
 

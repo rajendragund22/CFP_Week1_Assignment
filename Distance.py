@@ -1,5 +1,11 @@
 import math
 
+"""
+   * Author - Mr.Gund Rajendra
+   * Date - 06-Dec-2021
+   * Time - 07:44 PM
+   * Title - Print the euclidean distance.
+"""
 x1 = float(input('Enter the x1 co-ordinate of the first point:'))
 y1 = float(input('Enter the y1 co-ordinate of the first point:'))
 
